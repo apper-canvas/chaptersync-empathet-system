@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import Card from '@/components/atoms/Card'
 import Badge from '@/components/atoms/Badge'
 import ProgressBar from '@/components/molecules/ProgressBar'
+import AchievementBadges from '@/components/molecules/AchievementBadges'
 import Loading from '@/components/ui/Loading'
 import Error from '@/components/ui/Error'
 import Empty from '@/components/ui/Empty'
@@ -234,8 +235,10 @@ const Members = () => {
                       </p>
                     )}
 
+<AchievementBadges member={member} maxDisplay={3} />
+
                     {member.favoriteGenres && member.favoriteGenres.length > 0 && (
-                      <div className="flex flex-wrap gap-1">
+                      <div className="flex flex-wrap gap-1 mt-3">
                         {member.favoriteGenres.slice(0, 3).map((genre) => (
                           <Badge key={genre} variant="secondary" size="small">
                             {genre}
@@ -300,8 +303,8 @@ const Members = () => {
                           </div>
                         </div>
                         
-                        {currentBook && (
-                          <div className="flex items-center space-x-4">
+{currentBook && (
+                          <div className="flex items-center space-x-4 mb-3">
                             <div className="flex-1">
                               <ProgressBar
                                 progress={progress.chapter}
@@ -316,6 +319,8 @@ const Members = () => {
                             </span>
                           </div>
                         )}
+                        
+                        <AchievementBadges member={member} maxDisplay={4} />
                       </div>
                     </div>
                   </Card>

@@ -8,10 +8,36 @@
     "booksRead": 12,
     "currentChapter": 4,
     "favoriteGenres": ["Contemporary Fiction", "Mystery", "Historical Fiction"],
-    "bio": "Avid reader and coffee enthusiast. Love discussing character development and plot twists!",
+"bio": "Avid reader and coffee enthusiast. Love discussing character development and plot twists!",
     "readingStreak": 45,
     "totalComments": 28,
-    "isHost": true
+    "isHost": true,
+    "achievements": [
+      {
+        "name": "Monthly Master",
+        "description": "30-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-15T00:00:00Z"
+      },
+      {
+        "name": "Page Turner",
+        "description": "10 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-01-20T00:00:00Z"
+      },
+      {
+        "name": "Active Participant",
+        "description": "25+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-01-25T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 2,
@@ -23,9 +49,35 @@
     "currentChapter": 4,
     "favoriteGenres": ["Science Fiction", "Thriller", "Non-fiction"],
     "bio": "Tech professional who finds escape in great stories. Always looking for book recommendations!",
-    "readingStreak": 32,
+"readingStreak": 32,
     "totalComments": 19,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Monthly Master",
+        "description": "30-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-18T00:00:00Z"
+      },
+      {
+        "name": "Book Explorer",
+        "description": "5 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-01-22T00:00:00Z"
+      },
+      {
+        "name": "Discussion Starter",
+        "description": "10+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-01-28T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 3,
@@ -37,9 +89,35 @@
     "currentChapter": 3,
     "favoriteGenres": ["Literary Fiction", "Memoir", "Poetry"],
     "bio": "English teacher passionate about literature and helping others discover the joy of reading.",
-    "readingStreak": 67,
+"readingStreak": 67,
     "totalComments": 42,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Streak Legend",
+        "description": "60-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-25T00:00:00Z"
+      },
+      {
+        "name": "Page Turner",
+        "description": "10 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-01-30T00:00:00Z"
+      },
+      {
+        "name": "Community Leader",
+        "description": "50+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-02-01T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 4,
@@ -51,9 +129,35 @@
     "currentChapter": 4,
     "favoriteGenres": ["Fantasy", "Adventure", "Biography"],
     "bio": "New to book clubs but excited to dive deeper into reading and discussion.",
-    "readingStreak": 18,
+"readingStreak": 18,
     "totalComments": 12,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Week Warrior",
+        "description": "7-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-12T00:00:00Z"
+      },
+      {
+        "name": "Book Explorer",
+        "description": "5 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-01-20T00:00:00Z"
+      },
+      {
+        "name": "Discussion Starter",
+        "description": "10+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-01-25T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 5,
@@ -65,9 +169,35 @@
     "currentChapter": 4,
     "favoriteGenres": ["Romance", "Contemporary Fiction", "Self-help"],
     "bio": "Marketing professional who loves character-driven stories and happy endings.",
-    "readingStreak": 29,
+"readingStreak": 29,
     "totalComments": 24,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Week Warrior",
+        "description": "7-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-15T00:00:00Z"
+      },
+      {
+        "name": "Page Turner",
+        "description": "10 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-01-28T00:00:00Z"
+      },
+      {
+        "name": "Active Participant",
+        "description": "25+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-02-02T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 6,
@@ -79,9 +209,35 @@
     "currentChapter": 2,
     "favoriteGenres": ["Horror", "Thriller", "Graphic Novels"],
     "bio": "Artist and designer who appreciates creative storytelling and unique narrative styles.",
-    "readingStreak": 15,
+"readingStreak": 15,
     "totalComments": 16,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Week Warrior",
+        "description": "7-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-18T00:00:00Z"
+      },
+      {
+        "name": "Book Explorer",
+        "description": "5 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-01-30T00:00:00Z"
+      },
+      {
+        "name": "Discussion Starter",
+        "description": "10+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-02-05T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 7,
@@ -93,9 +249,35 @@
     "currentChapter": 4,
     "favoriteGenres": ["Young Adult", "Fantasy", "Contemporary Fiction"],
     "bio": "Librarian with a passion for connecting readers with their next favorite book.",
-    "readingStreak": 41,
+"readingStreak": 41,
     "totalComments": 35,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Monthly Master",
+        "description": "30-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-20T00:00:00Z"
+      },
+      {
+        "name": "Page Turner",
+        "description": "10 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-02-01T00:00:00Z"
+      },
+      {
+        "name": "Active Participant",
+        "description": "25+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-02-03T00:00:00Z"
+      }
+    ]
   },
   {
     "Id": 8,
@@ -107,8 +289,34 @@
     "currentChapter": 3,
     "favoriteGenres": ["Historical Fiction", "Military History", "Adventure"],
     "bio": "Retired history teacher who enjoys books that transport you to different times and places.",
-    "readingStreak": 23,
+"readingStreak": 23,
     "totalComments": 14,
-    "isHost": false
+    "isHost": false,
+    "achievements": [
+      {
+        "name": "Week Warrior",
+        "description": "7-day reading streak",
+        "icon": "Flame",
+        "color": "error",
+        "type": "streak",
+        "earnedDate": "2024-01-25T00:00:00Z"
+      },
+      {
+        "name": "Book Explorer",
+        "description": "5 books completed",
+        "icon": "BookOpen",
+        "color": "success",
+        "type": "books",
+        "earnedDate": "2024-02-05T00:00:00Z"
+      },
+      {
+        "name": "Discussion Starter",
+        "description": "10+ comments posted",
+        "icon": "MessageCircle",
+        "color": "accent",
+        "type": "contributions",
+        "earnedDate": "2024-02-08T00:00:00Z"
+      }
+    ]
   }
 ]
