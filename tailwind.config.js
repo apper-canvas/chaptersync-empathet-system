@@ -4,18 +4,18 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+theme: {
     extend: {
       colors: {
-        primary: '#8B4513',
-        secondary: '#D2691E',
-        accent: '#FF6B35',
-        surface: '#FFF8DC',
-        background: '#FAF0E6',
-        success: '#228B22',
-        warning: '#DAA520',
-        error: '#DC143C',
-        info: '#4682B4',
+        primary: '#1E40AF',
+        secondary: '#7C3AED',
+        accent: '#0D9488',
+        surface: '#F8FAFC',
+        background: '#F1F5F9',
+        success: '#059669',
+        warning: '#D97706',
+        error: '#DC2626',
+        info: '#4F46E5',
       },
       fontFamily: {
         display: ['Playfair Display', 'serif'],
