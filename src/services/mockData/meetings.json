@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 1,
+    "title": "Chapter 1-4 Discussion",
+    "date": "2024-02-03T19:00:00Z",
+    "type": "virtual",
+    "location": "Zoom Meeting Room",
+    "description": "Let's dive into the first quarter of our book! We'll discuss character development, the Hollywood setting, and our initial impressions of Evelyn Hugo's story.",
+    "agenda": [
+      "Welcome and introductions",
+      "Discussion of Chapters 1-4",
+      "Character analysis: Evelyn vs Monique",
+      "Historical context of 1950s Hollywood",
+      "Predictions for upcoming chapters"
+    ],
+    "hostId": 1,
+    "rsvps": [
+      {
+        "userId": 1,
+        "userName": "Sarah Chen",
+        "status": "attending",
+        "created": "2024-01-25T10:00:00Z"
+      },
+      {
+        "userId": 2,
+        "userName": "Mike Rodriguez",
+        "status": "attending",
+        "created": "2024-01-25T11:30:00Z"
+      },
+      {
+        "userId": 3,
+        "userName": "Emma Thompson",
+        "status": "maybe",
+        "created": "2024-01-25T14:20:00Z"
+      },
+      {
+        "userId": 4,
+        "userName": "David Kim",
+        "status": "attending",
+        "created": "2024-01-26T09:15:00Z"
+      },
+      {
+        "userId": 5,
+        "userName": "Lisa Wang",
+        "status": "attending",
+        "created": "2024-01-26T16:45:00Z"
+      }
+    ],
+    "created": "2024-01-24T12:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Mid-Book Coffee Chat",
+    "date": "2024-02-10T15:00:00Z",
+    "type": "in-person",
+    "location": "Central Perk Cafe, 123 Main St",
+    "description": "Casual meetup to discuss our progress and share thoughts over coffee. Perfect for those who prefer face-to-face discussions!",
+    "agenda": [
+      "Casual catch-up",
+      "Progress check-in",
+      "Favorite quotes and passages",
+      "Coffee and pastries"
+    ],
+    "hostId": 2,
+    "rsvps": [
+      {
+        "userId": 2,
+        "userName": "Mike Rodriguez",
+        "status": "attending",
+        "created": "2024-01-28T08:00:00Z"
+      },
+      {
+        "userId": 6,
+        "userName": "Alex Johnson",
+        "status": "attending",
+        "created": "2024-01-28T10:30:00Z"
+      },
+      {
+        "userId": 7,
+        "userName": "Rachel Green",
+        "status": "maybe",
+        "created": "2024-01-29T13:15:00Z"
+      }
+    ],
+    "created": "2024-01-27T18:00:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Final Discussion & Book Selection",
+    "date": "2024-02-28T18:30:00Z",
+    "type": "hybrid",
+    "location": "Community Center (Room B) + Zoom",
+    "description": "Our final discussion of the book plus voting on our next read! Bring your suggestions and get ready for a lively debate about our next literary adventure.",
+    "agenda": [
+      "Complete book discussion",
+      "Themes and takeaways",
+      "Author appreciation",
+      "Next book proposals",
+      "Voting session",
+      "Schedule planning for next book"
+    ],
+    "hostId": 1,
+    "rsvps": [],
+    "created": "2024-01-30T11:00:00Z"
+  }
+]

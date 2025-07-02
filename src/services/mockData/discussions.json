@@ -1,0 +1,131 @@
+[
+  {
+    "Id": 1,
+    "bookId": 1,
+    "chapter": 1,
+    "created": "2024-01-16T10:00:00Z",
+    "comments": [
+      {
+        "Id": 1,
+        "content": "What an opening chapter! Evelyn Hugo's voice is so compelling from the very first page. I love how Taylor Jenkins Reid immediately establishes the mystery around this reclusive icon. The way Monique is chosen for this interview feels like there's so much more to uncover.",
+        "userName": "Sarah Chen",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-16T10:15:00Z",
+        "reactions": {
+          "👍": 3,
+          "❤️": 2,
+          "📚": 1
+        },
+        "userReactions": []
+      },
+      {
+        "Id": 2,
+        "content": "I'm immediately intrigued by Monique's character. She feels so real and relatable - struggling with her career and personal life. The contrast between her ordinary world and Evelyn's glamorous past is already creating such tension. Can't wait to see how their relationship develops!",
+        "userName": "Mike Rodriguez",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-16T14:30:00Z",
+        "reactions": {
+          "👍": 2,
+          "🤔": 1
+        },
+        "userReactions": []
+      },
+      {
+        "Id": 3,
+        "content": "The writing style is absolutely captivating! Reid has this way of making you feel like you're right there with the characters. I love how she's setting up the dual timeline structure. Already wondering what secrets Evelyn is hiding behind all those marriages.",
+        "userName": "Emma Thompson",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-16T19:45:00Z",
+        "reactions": {
+          "❤️": 4,
+          "💡": 2
+        },
+        "userReactions": []
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "bookId": 1,
+    "chapter": 2,
+    "created": "2024-01-18T09:00:00Z",
+    "comments": [
+      {
+        "Id": 4,
+        "content": "The 1950s Hollywood setting is so vivid! I can practically see the studio lots and feel the glamour of that era. Evelyn's ambition and determination really shine through in this chapter. The way she's willing to reinvent herself shows incredible strength.",
+        "userName": "David Kim",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-18T11:20:00Z",
+        "reactions": {
+          "👍": 2,
+          "📚": 3
+        },
+        "userReactions": []
+      },
+      {
+        "Id": 5,
+        "content": "I'm fascinated by how Reid portrays the Hollywood system of that time. The pressure on women to conform to certain images, the studio control over actors' lives - it all feels so authentic. Evelyn's navigation of this world is brilliant to watch unfold.",
+        "userName": "Lisa Wang",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-18T16:10:00Z",
+        "reactions": {
+          "🤔": 2,
+          "💡": 1
+        },
+        "userReactions": []
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "bookId": 1,
+    "chapter": 3,
+    "created": "2024-01-20T08:30:00Z",
+    "comments": [
+      {
+        "Id": 6,
+        "content": "The first husband reveal was shocking! I wasn't expecting that twist. Reid does such a great job of showing how complex Evelyn's relationships are, and how nothing is quite what it seems on the surface. The layers of her character are really starting to show.",
+        "userName": "Alex Johnson",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-20T12:00:00Z",
+        "reactions": {
+          "😊": 3,
+          "🤔": 2
+        },
+        "userReactions": []
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "bookId": 1,
+    "chapter": 4,
+    "created": "2024-01-22T07:15:00Z",
+    "comments": [
+      {
+        "Id": 7,
+        "content": "This chapter really explores the theme of identity and authenticity. Evelyn's struggle between who she really is and who the world expects her to be is so compelling. The way she describes reinventing herself multiple times really resonates with modern discussions about identity.",
+        "userName": "Rachel Green",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-22T09:30:00Z",
+        "reactions": {
+          "❤️": 3,
+          "💡": 4
+        },
+        "userReactions": []
+      },
+      {
+        "Id": 8,
+        "content": "The relationship dynamics in this chapter are so well-written. You can feel the tension and the genuine emotions beneath all the Hollywood glamour. Reid has such a gift for making these characters feel like real people with real struggles, not just archetypes.",
+        "userName": "Tom Baker",
+        "userAvatar": "/api/placeholder/40/40",
+        "created": "2024-01-22T15:45:00Z",
+        "reactions": {
+          "👍": 2,
+          "📚": 1
+        },
+        "userReactions": []
+      }
+    ]
+  }
+]

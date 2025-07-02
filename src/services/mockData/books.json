@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "isbn": "9781501161933",
+    "coverUrl": "/api/placeholder/200/300",
+    "totalChapters": 12,
+    "description": "A reclusive Hollywood icon finally tells her story to an unknown journalist, revealing the truth behind her seven marriages and the price of fame."
+  },
+  {
+    "Id": 2,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "isbn": "9781250301697",
+    "coverUrl": "/api/placeholder/200/300",
+    "totalChapters": 8,
+    "description": "A woman's act of violence against her husband and her refusal to speak triggers one man's obsession to understand why."
+  },
+  {
+    "Id": 3,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "isbn": "9780399590504",
+    "coverUrl": "/api/placeholder/200/300",
+    "totalChapters": 10,
+    "description": "A memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge University."
+  },
+  {
+    "Id": 4,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "isbn": "9780525559474",
+    "coverUrl": "/api/placeholder/200/300",
+    "totalChapters": 15,
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived."
+  },
+  {
+    "Id": 5,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "isbn": "9780735219090",
+    "coverUrl": "/api/placeholder/200/300",
+    "totalChapters": 14,
+    "description": "A mystery about a young woman who has lived isolated in the marshes of North Carolina, and the murder that brings the outside world to her doorstep."
+  },
+  {
+    "Id": 6,
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "isbn": "9780593311295",
+    "coverUrl": "/api/placeholder/200/300",
+    "totalChapters": 11,
+    "description": "A thrilling book about artificial intelligence and what it means to love, from the Nobel Prize-winning author of Never Let Me Go."
+  }
+]
